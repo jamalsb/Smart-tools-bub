@@ -1,0 +1,6 @@
+{
+  "name": "SmartTools Hub",
+  "description": "A modern SaaS productivity suite with Text Summarizer, Translator, and real-time Word Counter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
